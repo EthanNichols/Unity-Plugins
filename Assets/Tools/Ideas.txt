@@ -1,0 +1,10 @@
+Required inspector Field Attribution // Displays that a field must have an object reference to compile
+Warning inspector Field Attribution  // Warns the user that a field doesn't have an object reference
+
+LogTrace // Extended debug features to also create log files between plays, and editor sessions
+Organized Debug // Allow more possibilities to organize debug calls. Different sections
+
+Pretty Text // A class that makes it easier to markup text with bold, colors, etc instead of in the string
+Markdown to Pretty Text // Helper class that will convert markdown text to Pretty Text or normal text
+
+HideContentFolder // Add the ability to hide/rearrange folders in the content view
