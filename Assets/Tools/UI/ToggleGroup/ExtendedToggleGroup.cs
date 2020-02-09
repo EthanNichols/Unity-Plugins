@@ -7,8 +7,7 @@ using System.Linq;
 namespace UnityEngine.UI
 {
 		[AddComponentMenu("UI/Extended Toggle Group", 33)]
-		[DisallowMultipleComponent]
-		public class ExtendedToggleGroup : ToggleGroup
+		public class ToggleGroupExtension : ToggleGroup
 		{
 				public List<Toggle> Toggles
 				{
